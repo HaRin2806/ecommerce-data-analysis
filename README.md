@@ -1,6 +1,7 @@
 # E-commerce Data Analysis
 
-Dự án phân tích dữ liệu giao dịch thực tế từ một cửa hàng bán lẻ trực tuyến tại Anh, sử dụng bộ dữ liệu UCI Online Retail.
+- Dự án phân tích dữ liệu giao dịch thực tế từ một cửa hàng bán lẻ trực tuyến tại Anh, sử dụng bộ dữ liệu UCI Online Retail.
+- https://roadmap.sh/projects/ecommerce-data-analysis
 
 ## Mục tiêu dự án
 - Làm sạch dữ liệu (xóa null, sửa kiểu dữ liệu, loại bỏ đơn hàng hoàn trả).
